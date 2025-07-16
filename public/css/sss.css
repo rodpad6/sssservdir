@@ -1662,3 +1662,10 @@ div.dt-container .dt-paging .ellipsis {
     }
 }
 /********************************************/
+
+
+.navbar .nav-link.active {
+    color: #28628e !important;
+    text-decoration: underline !important;
+    text-underline-offset: 10px !important;
+}

@@ -2,7 +2,7 @@
 
 @section('content')
     <div class="my-4">
-        <nav class="navbar navbar-expand-sm bg-ss-light mb-3">
+        <nav class="navbar navbar-expand-sm bg-light mb-3">
             <div class="container-fluid">
                 <a href="" class="navbar-brand">Programs & Services</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar"></button>
