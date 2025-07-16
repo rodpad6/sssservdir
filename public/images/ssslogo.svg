@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1051.61 856.82">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-4, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #2250a0;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1112.58" y1="95.52" x2="213.93" y2="170.21" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".22" stop-color="#fff" stop-opacity=".76"/>
+      <stop offset=".6" stop-color="#fff" stop-opacity=".36"/>
+      <stop offset=".87" stop-color="#fff" stop-opacity=".1"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <path class="cls-4" d="M958.94,856.82H92.7c-51.11,0-92.7-43.24-92.7-96.39V96.37C0,43.23,41.58,0,92.7,0H958.94c51.1,0,92.67,43.23,92.67,96.37V760.43c0,53.15-41.57,96.39-92.67,96.39Z"/>
+      <path class="cls-2" d="M92.7,24.98H958.94c37.26,0,67.69,32.16,67.69,71.39V760.43c0,39.26-30.43,71.41-67.69,71.41H92.7c-37.26,0-67.72-32.15-67.72-71.41V96.37c0-39.23,30.46-71.39,67.72-71.39"/>
+      <path class="cls-1" d="M958.94,24.98H92.7c-37.26,0-67.72,32.16-67.72,71.39v245.07c169.74-83.77,543.72-233.12,1001.65-200.56v-44.51c0-39.23-30.43-71.39-67.69-71.39Z"/>
+      <g>
+        <polygon class="cls-3" points="21.98 603.59 129.19 603.59 513.29 118.8 1029.63 118.8 1029.63 166.96 631.91 166.96 254.41 642.56 21.98 642.56 21.98 603.59"/>
+        <polygon class="cls-3" points="21.98 660.31 262.61 660.31 646.67 186.73 1029.63 186.73 1029.63 238.06 765.29 238.3 431.18 696.59 21.98 696.67 21.98 660.31"/>
+        <polygon class="cls-3" points="21.98 714.13 448.8 716.1 784.81 254.52 1029.63 254.52 1029.63 299.94 904.94 300.21 556.78 756.48 21.98 756.31 21.98 714.13"/>
+      </g>
+    </g>
+  </g>
+</svg>
